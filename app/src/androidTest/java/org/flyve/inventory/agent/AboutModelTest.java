@@ -1,14 +1,11 @@
 package org.flyve.inventory.agent;
-
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
-
 import org.flyve.inventory.agent.core.about.About;
 import org.flyve.inventory.agent.core.about.AboutModel;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
 import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.mock;
 
